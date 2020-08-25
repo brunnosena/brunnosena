@@ -12,10 +12,8 @@
 Meu nome é Brunno Sena;
 Sou Desenvolvedor FullStack.
 
-- :office_worker: Desenvolvedor FullStack no **Grupo Dimed**
+- 🙋 Desenvolvedor FullStack no [**Grupo Dimed**](http://www.grupodimed.com.br/)
 - :blue_heart: Techs: React.js, React Native, Node.js, Angular 2+, TypeScript e mais!
 - :books: Participando dos BootCamps @Rockectseat e @igti :heart:
-
-> 🙋🏻 [brunnosena](https://brunnosena.github.io/)
 
 ---
