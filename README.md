@@ -1,5 +1,3 @@
-# Brunno Sena :man_technologist:
-
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/brunnosena)](https://github.com/brunnosena)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunnosena/)](https://www.linkedin.com/in/brunnosena/)
 [![DEV Badge](https://img.shields.io/badge/-DEV.to-000?style=flat-square&logo=dev.to&logoColor=white&link=https://dev.to/lucasgdb)](https://dev.to/brunnosena)
@@ -12,8 +10,7 @@
 Meu nome é Brunno Sena;
 Sou Desenvolvedor FullStack.
 
-- 🙋 Desenvolvedor FullStack no [**Grupo Dimed**](http://www.grupodimed.com.br/)
-- :blue_heart: Techs: React.js, React Native, Node.js, Angular 2+, TypeScript e mais!
-- :books: Participando dos BootCamps @Rockectseat e @igti :heart:
+- :man_technologist: Desenvolvedor FullStack no [**Grupo Dimed**](http://www.grupodimed.com.br/)
+- :blue_heart: Techs: Javascript | TypeScript | PHP
 
 ---
