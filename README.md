@@ -14,3 +14,5 @@ Sou Desenvolvedor FullStack.
 - :blue_heart: Techs: Javascript | TypeScript | PHP
 
 ---
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=brunnosena)](https://github.com/brunnosena)
