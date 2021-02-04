@@ -15,4 +15,15 @@ Sou Desenvolvedor FullStack.
 
 ---
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=brunnosena)](https://github.com/brunnosena)
+<center>
+	<table>
+		<tr>
+			<td>
+				<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunnosena&layout=compact&theme=cobalt"/>
+			</td>
+			<td>
+				<img width="490px" align="left" src="https://github-readme-stats.vercel.app/api?username=brunnosena&show_icons=true&theme=cobalt"/>
+			</td>
+		</tr>
+	</table>
+</center>
