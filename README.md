@@ -10,12 +10,13 @@ Sou Desenvolvedor FullStack.
 ### Tecnologias e ferramentas
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Javascript-F7D842?style=social&logo=javascript&logoColor=F7D842" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Javascript-EFD81D?style=social&logo=javascript&logoColor=EFD81D" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Typescript-2F74C0?style=social&logo=typescript&logoColor=2F74C0" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/NodeJS-3D6098?style=social&logo=nodejs&logoColor=3D6098" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/React-3D6098?style=social&logo=react&logoColor=3D6098" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/React%20Native-3D6098?style=social&logo=react&logoColor=3D6098" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Angular%202+-D6262E?style=social&logo=angular&logoColor=D6262E" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Jest-BF3913?style=social&logo=jest&logoColor=BF3913" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Styled%20Components-DB7093?style=social&logo=styled-components&logoColor=DB7093" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=social&logo=visual-studio-code&logoColor=007ACC" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Git-F05032?style=social&logo=git&logoColor=F05032" />&nbsp;&nbsp;&nbsp;
@@ -23,6 +24,7 @@ Sou Desenvolvedor FullStack.
   <img src="https://img.shields.io/badge/Figma-F04B4C?style=social&logo=figma&logoColor=F04B4C" />
 </p>
 
+### Contatos
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/brunnosena)](https://github.com/brunnosena)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunnosena/)](https://www.linkedin.com/in/brunnosena/)
