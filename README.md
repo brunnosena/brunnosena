@@ -2,9 +2,7 @@
 ## Olá 👋⚡ 
 
 Meu nome é Brunno Sena;
-Sou Desenvolvedor FullStack.
-
-- :man_technologist: Desenvolvedor FullStack no [**Grupo Dimed**](http://www.grupodimed.com.br/)
+Sou Desenvolvedor FullStack no [**Grupo Dimed**](http://www.grupodimed.com.br/);
 
 ### Tecnologias e ferramentas
 
