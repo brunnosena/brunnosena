@@ -1,8 +1,9 @@
 
 ## Olá 👋⚡ 
 
-Meu nome é Brunno Sena;
-Sou Desenvolvedor FullStack no [**Grupo Dimed**](http://www.grupodimed.com.br/);
+Meu nome é Brunno Sena.
+
+Desenvolvedor FullStack no [**Grupo Dimed**](http://www.grupodimed.com.br/);
 
 ### Tecnologias e ferramentas
 
