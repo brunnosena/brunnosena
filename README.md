@@ -5,7 +5,6 @@ Meu nome é Brunno Sena;
 Sou Desenvolvedor FullStack.
 
 - :man_technologist: Desenvolvedor FullStack no [**Grupo Dimed**](http://www.grupodimed.com.br/)
-- :blue_heart: Techs: Javascript | TypeScript | PHP
 
 ### Tecnologias e ferramentas
 
@@ -21,6 +20,7 @@ Sou Desenvolvedor FullStack.
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=social&logo=visual-studio-code&logoColor=007ACC" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Git-F05032?style=social&logo=git&logoColor=F05032" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Github-181717?style=social&logo=github&logoColor=181717" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Insomnia-5547B8?style=social&logo=insomnia&logoColor=5547B8" />
   <img src="https://img.shields.io/badge/Figma-F04B4C?style=social&logo=figma&logoColor=F04B4C" />
 </p>
 
