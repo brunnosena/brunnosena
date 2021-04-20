@@ -10,10 +10,11 @@ Desenvolvedor FullStack no [**Grupo Dimed**](http://www.grupodimed.com.br/);
 <p align="center">
   <img src="https://img.shields.io/badge/Javascript-EFD81D?style=social&logo=javascript&logoColor=EFD81D" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Typescript-2F74C0?style=social&logo=typescript&logoColor=2F74C0" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/NodeJS-3D6098?style=social&logo=nodejs&logoColor=3D6098" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/NodeJS-3D6098?style=social&logo=nodejs&logoColor=3D6098" />&nbsp;&nbsp;&nbsp;  
   <img src="https://img.shields.io/badge/React-3D6098?style=social&logo=react&logoColor=3D6098" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/React%20Native-3D6098?style=social&logo=react&logoColor=3D6098" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Angular%202+-D6262E?style=social&logo=angular&logoColor=D6262E" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Java-3D6098?style=social&logo=java&logoColor=D6262E" />&nbsp;&nbsp;&nbsp;	
   <img src="https://img.shields.io/badge/Jest-BF3913?style=social&logo=jest&logoColor=BF3913" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Styled%20Components-DB7093?style=social&logo=styled-components&logoColor=DB7093" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=social&logo=visual-studio-code&logoColor=007ACC" />&nbsp;&nbsp;&nbsp;
